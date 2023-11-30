@@ -1,0 +1,11 @@
+
+.container{
+    border: 3px solid purple;
+}
+
+
+.box{
+    border: 3px solid red;
+    width: 100px;
+    height: 100px;
+}
